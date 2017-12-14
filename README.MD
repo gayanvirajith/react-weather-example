@@ -1,6 +1,6 @@
-## React boilerplate
+## React weatherapp example
 
-React boilerplate codebase. 
+React weatherapp example codebase. 
 
 ### How to run in local environent
 
